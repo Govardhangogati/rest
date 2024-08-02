@@ -1,0 +1,19 @@
+<collegedetails>
+	<collegename>xyz</collegename>
+	<Location>Rjy</Location>
+	<courses>
+		<course1>java</corse1>
+		<course2>python</course2>
+		<course3>c++</course3>
+	</courses>
+	<students>
+		<student1>
+			<name>surya</name>
+			<age>21</age>
+		</student1>
+		<student2>
+			<name>Raj</name>
+			<age>21</age>
+		</student2>
+	</students>
+<collegedetails>
